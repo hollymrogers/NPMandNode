@@ -1,1 +1,1 @@
-# NPMandNode
+console.log("Hello world!")
